@@ -1,2 +1,2 @@
 # github-demo
-A simple demo respository to dhow the basic Git workflow
+A simple media player written using Qt 
